@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Intro-to-Reat/static/css/main.a0ad9318.chunk.css",
+    "main.js": "/Intro-to-Reat/static/js/main.4c21c6a9.chunk.js",
+    "main.js.map": "/Intro-to-Reat/static/js/main.4c21c6a9.chunk.js.map",
+    "runtime-main.js": "/Intro-to-Reat/static/js/runtime-main.fd547611.js",
+    "runtime-main.js.map": "/Intro-to-Reat/static/js/runtime-main.fd547611.js.map",
+    "static/js/2.12dc86f7.chunk.js": "/Intro-to-Reat/static/js/2.12dc86f7.chunk.js",
+    "static/js/2.12dc86f7.chunk.js.map": "/Intro-to-Reat/static/js/2.12dc86f7.chunk.js.map",
+    "index.html": "/Intro-to-Reat/index.html",
+    "precache-manifest.61bf097bcd3a252ef32ef16825a9def4.js": "/Intro-to-Reat/precache-manifest.61bf097bcd3a252ef32ef16825a9def4.js",
+    "service-worker.js": "/Intro-to-Reat/service-worker.js",
+    "static/css/main.a0ad9318.chunk.css.map": "/Intro-to-Reat/static/css/main.a0ad9318.chunk.css.map",
+    "static/js/2.12dc86f7.chunk.js.LICENSE.txt": "/Intro-to-Reat/static/js/2.12dc86f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd547611.js",
+    "static/js/2.12dc86f7.chunk.js",
+    "static/css/main.a0ad9318.chunk.css",
+    "static/js/main.4c21c6a9.chunk.js"
+  ]
+}
